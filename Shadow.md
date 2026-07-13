@@ -10,4 +10,4 @@ special ability: เขียนโค้ดเก่ง
 weakness: แพ้เตวรากร
 Quote ประจำตัว: โตกับเตในเงา
 
-<img src="Shadow.png">
+
